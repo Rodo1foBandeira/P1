@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: 
+\jdbc\mysql-connector-java-8.0.12.jar
